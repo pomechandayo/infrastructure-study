@@ -1,5 +1,6 @@
-# infrastructure-study
-インフラの学習用リポジトリ
+# 概要
+インフラ学習用に使用するリポジトリ
+## 学習する項目
 * Terraform
 * Docker
 * Nginx
