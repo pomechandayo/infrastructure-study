@@ -1,0 +1,6 @@
+nginx:
+    image: nginx
+    ports:
+      - 88:80
+    tty: true
+    restart: always
